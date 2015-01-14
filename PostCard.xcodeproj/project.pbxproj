@@ -14,6 +14,8 @@
 		15BACFAA1A631E8900DE3B90 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 15BACFA91A631E8900DE3B90 /* Images.xcassets */; };
 		15BACFAD1A631E8900DE3B90 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 15BACFAB1A631E8900DE3B90 /* LaunchScreen.xib */; };
 		15BACFB91A631E8900DE3B90 /* PostCardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15BACFB81A631E8900DE3B90 /* PostCardTests.swift */; };
+		15BACFC31A6321C100DE3B90 /* fotolia_10385924_XS.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15BACFC21A6321C100DE3B90 /* fotolia_10385924_XS.jpg */; };
+		15BACFC51A63253100DE3B90 /* albert-einstein-greyscale-knowledge-monochrome-quotes-256x256.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 15BACFC41A63253100DE3B90 /* albert-einstein-greyscale-knowledge-monochrome-quotes-256x256.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +40,8 @@
 		15BACFB21A631E8900DE3B90 /* PostCardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostCardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		15BACFB71A631E8900DE3B90 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		15BACFB81A631E8900DE3B90 /* PostCardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCardTests.swift; sourceTree = "<group>"; };
+		15BACFC21A6321C100DE3B90 /* fotolia_10385924_XS.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fotolia_10385924_XS.jpg; sourceTree = "<group>"; };
+		15BACFC41A63253100DE3B90 /* albert-einstein-greyscale-knowledge-monochrome-quotes-256x256.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "albert-einstein-greyscale-knowledge-monochrome-quotes-256x256.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +97,8 @@
 		15BACF9D1A631E8900DE3B90 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				15BACFC41A63253100DE3B90 /* albert-einstein-greyscale-knowledge-monochrome-quotes-256x256.jpg */,
+				15BACFC21A6321C100DE3B90 /* fotolia_10385924_XS.jpg */,
 				15BACF9E1A631E8900DE3B90 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -196,6 +202,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				15BACFA81A631E8900DE3B90 /* Main.storyboard in Resources */,
+				15BACFC31A6321C100DE3B90 /* fotolia_10385924_XS.jpg in Resources */,
+				15BACFC51A63253100DE3B90 /* albert-einstein-greyscale-knowledge-monochrome-quotes-256x256.jpg in Resources */,
 				15BACFAD1A631E8900DE3B90 /* LaunchScreen.xib in Resources */,
 				15BACFAA1A631E8900DE3B90 /* Images.xcassets in Resources */,
 			);
